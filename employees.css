@@ -1,0 +1,45 @@
+table 
+{
+	border: 3px dotted;
+}
+th, td
+{
+	border: 2px solid black;
+}
+.one
+{
+	background: lightpink;
+}
+.two
+{
+	background: peachpuff;
+}
+.three
+{
+	background: lightyellow;
+}
+.four
+{
+	background: lightgreen;
+}
+.five
+{
+	background: lightblue;
+}
+.six
+{
+	background: plum ;
+}
+.seven
+{
+	background: lightgray;
+}
+.eight
+{
+	background: white ;
+}
+
+
+
+
+
